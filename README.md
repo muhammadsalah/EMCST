@@ -37,3 +37,12 @@ It will create a VM named 'cst-windows' with the mentioned configuration above.
 
 You can customize the configurations to increase the RAM or CPU assigned as well
 by using modifying the vagrant file in the bottom section memory and cpus properties.
+
+# Notice
+You need to register for student license for CST and insert your email to activate the upon
+using the software.
+
+# Credentials
+
+**Username** vagrant
+**Password** vagrant
