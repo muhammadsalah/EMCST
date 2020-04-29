@@ -45,4 +45,5 @@ using the software.
 # Credentials
 
 **Username** vagrant
+
 **Password** vagrant
